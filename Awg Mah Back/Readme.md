@@ -43,4 +43,14 @@ denc = a + b + c
 print(denc)
 ```
 
+![](https://github.com/noobmannn/kcscrecruitment2023/blob/95d1af19567a3d54a7e3052fed18a8ba987731d6/Awg%20Mah%20Back/Image/1.png)
+
+Kết quả thu được có vẻ là một chuỗi base64, mình tiếp tục ném nó lên CyberChef và đây là kết quả
+
+![](https://github.com/noobmannn/kcscrecruitment2023/blob/95d1af19567a3d54a7e3052fed18a8ba987731d6/Awg%20Mah%20Back/Image/2.png)
+
+# Flag
+
+```KCSC{84cK_t0_BaCK_To_B4ck_X0r`_4nD_864_oM3g4LuL}```
+
 
