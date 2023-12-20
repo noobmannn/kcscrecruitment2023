@@ -18,6 +18,12 @@ Reverse:
 
 [7. password checker](https://github.com/noobmannn/kcscrecruitment2023/blob/main/password%20checker/README.md)
 
+[8. mission: impossible](https://github.com/noobmannn/kcscrecruitment2023/blob/main/mission%3A%20impossible/README.md)
+
+[9. The Ultimate Xor](https://github.com/noobmannn/kcscrecruitment2023/blob/main/The%20Ultimate%20Xor/README.md)
+
+[10. two-faces](https://github.com/noobmannn/kcscrecruitment2023/blob/main/two-faces/README.md)
+
 Pwn: [A gift for pwners](https://github.com/noobmannn/kcscrecruitment2023/blob/main/A%20gift%20for%20pwners/README.md)
 
 Crypto: [Ez_Ceasar](https://github.com/noobmannn/kcscrecruitment2023/blob/main/Ez_Ceasar/README.md)
